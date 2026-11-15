@@ -17,7 +17,7 @@ Explorando a interseção entre <b>Inteligência Artificial, Ciência de Dados e
 
 ---
 
-<h2 align="center">🚀 Sobre Mim</h2>
+<h2 align="center">🚀 Sobre Mim </h2>
 
 <table>
 <tr>
@@ -173,7 +173,7 @@ Projeto de análise de dados voltado à identificação de padrões de cancelame
 
 <br/><br/>
 
-<a href="LINK-DO-PROJETO-3">
+<a href="https://github.com/dayanetecla/churn-prediction-study.git">
 <img src="https://img.shields.io/badge/Ver%20Projeto-161B22?style=for-the-badge&logo=github"/>
 </a>
 
@@ -183,27 +183,43 @@ Projeto de análise de dados voltado à identificação de padrões de cancelame
 
 ---
 
+
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dayanetecla&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B9BB4&icon_color=8B9BB4&text_color=C9D1D9&include_all_commits=true"/>
+<img
+  width="49%"
+  src="https://github-stats-extended.vercel.app/api?username=dayanetecla&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B9BB4&icon_color=8B9BB4&text_color=C9D1D9&include_all_commits=true"
+  alt="Estatísticas do GitHub"
+/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dayanetecla&theme=transparent&hide_border=true&background=0D1117&ring=8B9BB4&fire=8B9BB4&currStreakLabel=8B9BB4&sideLabels=C9D1D9&dates=777777"/>
+<img
+  width="49%"
+  src="https://streak-stats.demolab.com/?user=dayanetecla&theme=transparent&hide_border=true&background=0D1117&ring=8B9BB4&fire=8B9BB4&currStreakLabel=8B9BB4&sideLabels=C9D1D9&dates=777777"
+  alt="Sequência de contribuições"
+/>
 
 <br/><br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayanetecla&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B9BB4&text_color=C9D1D9"/>
+<img
+  width="60%"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=dayanetecla&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B9BB4&text_color=C9D1D9"
+  alt="Linguagens mais utilizadas"
+/>
 
 </div>
 
----
 
 <h2 align="center">📈 Gráfico de Atividades</h2>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dayanetecla&bg_color=0D1117&color=C9D1D9&line=8B9BB4&point=FFFFFF&area=true&hide_border=true"/>
+<img
+  width="100%"
+  src="https://github-stats-livid-three.vercel.app/activity?user=dayanetecla&theme=dark&palette=ice&style=aurora"
+  alt="Gráfico de atividades do GitHub"
+/>
 
 </div>
 
