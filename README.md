@@ -59,11 +59,11 @@ Atualmente, estou aprofundando meus conhecimentos em aplicações de IA, desenvo
 <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
+<a href="https://www.linkedin.com/in/dayaneanastacio/">
 <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<a href="mailto:SEU-EMAIL">
+<a href="mailto:dayaneanastacio15@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
